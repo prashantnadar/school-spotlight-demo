@@ -9,7 +9,7 @@ export const school = {
   phone: "+91 XXXXX XXXXX",
   address: "School Address, Mumbai, Maharashtra",
   workingHours: "Monday – Saturday, 8:00 AM – 4:00 PM",
-  instagramUrl: "https://www.instagram.com/",
+  instagramUrl: "https://www.instagram.com/prashant_dev_22",
   /** Demo WhatsApp number with country code (91 = India). Replace later. */
   whatsappNumber: "917738735890",
 } as const;
