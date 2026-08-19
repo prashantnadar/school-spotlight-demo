@@ -5,7 +5,7 @@ import { About } from "../components/About";
 import { Instagram } from "../components/Instagram";
 import { Contact } from "../components/Contact";
 import { Footer } from "../components/Footer";
-import { BackToTop } from "../components/BackToTop";
+// import { BackToTop } from "../components/BackToTop";
 import { school } from "../config/school";
 
 const title = `${school.name} — ${school.tagline}`;
@@ -66,7 +66,7 @@ function Index() {
         <Contact />
       </main>
       <Footer />
-      <BackToTop />
+      {/* <BackToTop /> */}
     </div>
   );
 }
